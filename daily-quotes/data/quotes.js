@@ -1,0 +1,17 @@
+export const quotes = [
+  { id: 1, text: "Hãy sống như thể ngày mai bạn sẽ chết." },
+  { id: 2, text: "Thành công không đến từ may mắn, mà từ nỗ lực." },
+  { id: 3, text: "Cuộc sống là 10% những gì xảy ra và 90% cách bạn phản ứng." },
+  { id: 4, text: "Không có gì là không thể nếu bạn quyết tâm." },
+  { id: 5, text: "Hãy làm việc chăm chỉ trong im lặng và để thành công lên tiếng." },
+  { id: 6, text: "Đừng đợi cơ hội đến, hãy tạo ra nó." },
+  { id: 7, text: "Mỗi ngày là một cơ hội mới để thay đổi bản thân." },
+  { id: 8, text: "Niềm tin là bước đầu tiên, dù bạn chưa thấy con đường." },
+  { id: 9, text: "Thất bại là mẹ thành công." },
+  { id: 10, text: "Giữ nụ cười — đó là cách đơn giản nhất để vượt qua khó khăn." },
+  { id: 11, text: "Người kiên trì sẽ chinh phục mọi đỉnh cao." },
+  { id: 12, text: "Không ai có thể quay lại bắt đầu, nhưng ai cũng có thể bắt đầu từ hôm nay." },
+  { id: 13, text: "Càng kỷ luật, bạn càng tự do." },
+  { id: 14, text: "Mỗi bước nhỏ hôm nay là nền tảng cho thành công ngày mai." },
+  { id: 15, text: "Đừng sợ thất bại, sợ nhất là không dám thử." },
+];
